@@ -15,6 +15,10 @@
 
 ig will generate that .gitignore you want! give some languages voilá!
 
+## Prerequisites
+
+1 - any linux distro with unzip package
+
 ## Install
 
 ```sh
@@ -53,7 +57,7 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2020 [Zoey de Souza Pessanha <zoey.spessanha@zeetech.io>](https://github.com/Mdsp9070).<br />
-This project is [MIT](a) licensed.
+This project is [MIT](https://github.com/Mdsp9070/ig/blob/master/LICENSE) licensed.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
